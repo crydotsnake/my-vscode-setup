@@ -40,7 +40,7 @@ Here you find my VSCode Plugins, the settings are in the `settings.json` File.
 ![Screenshot](https://github.com/crydotsnake/my-vscode-setup/raw/master/img/screenshot.png?raw=true)
 
 ## Informations
-You find all Informations about the extensions in their repositorys.
+You can find all the Informations about the extensions in their repositorys.
 
 ## Font
 
