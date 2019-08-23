@@ -2,7 +2,7 @@
 
 ## Settings
 
-```
+```json
  {
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
