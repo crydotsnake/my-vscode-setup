@@ -1,6 +1,35 @@
 # My VSCode Setup
 
-Here you find my VSCode Plugins, the settings are in the `settings.json` File.
+## Settings
+
+```
+ {
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "window.zoomLevel": 0,
+    "workbench.sideBar.location": "right",
+    "editor.tabSize": 5,
+    "workbench.iconTheme": "vscode-icons",
+    "git.path": null,
+    "git.autofetch": false,
+    "workbench.colorTheme": "Noctis Bordo",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true, 
+
+    "workbench.colorCustomizations": {
+    "activityBar.background": "#420f0fb2",
+    "titleBar.activeBackground": "#420f0fb2",
+    "titleBar.activeForeground": "#420f0fb2",
+
+
+    "files.associations": {
+      "*.html": "twig",
+  },
+  
+
+  }
+}
+```
 
 ## Plugins
 + [Auto Close Tag by Jun Han](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
