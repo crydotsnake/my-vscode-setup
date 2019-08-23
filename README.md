@@ -36,5 +36,8 @@ Here you find my VSCode Plugins, the settings are in the `settings.json` File.
 + [Window Colors by Stuart Robinson](https://marketplace.visualstudio.com/items?itemName=stuart.unique-window-colors)
 
 
+# Screenshot
+![Screenshot](https://github.com/crydotsnake/my-vscode-setup/blob/master/img/screenshot.png?raw=true)
+
 ## Information
 You find all Informations about the extensions in their repositorys.
