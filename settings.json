@@ -17,7 +17,6 @@
     "titleBar.activeForeground": "#420f0fb2",
 
 
-    /* Twig 2 Extension */
     "files.associations": {
       "*.html": "twig",
   },
