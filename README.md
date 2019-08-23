@@ -36,8 +36,19 @@ Here you find my VSCode Plugins, the settings are in the `settings.json` File.
 + [Window Colors by Stuart Robinson](https://marketplace.visualstudio.com/items?itemName=stuart.unique-window-colors)
 
 
-# Screenshot
-![Screenshot](https://github.com/crydotsnake/my-vscode-setup/blob/master/img/screenshot.png?raw=true)
+## Screenshot
+![Screenshot](https://github.com/crydotsnake/my-vscode-setup/raw/master/img/screenshot.png?raw=true)
 
-## Information
+## Informations
 You find all Informations about the extensions in their repositorys.
+
+## Font
+
+The Font that i'm using for VScode is [Fira Code](https://github.com/tonsky/FiraCode).
+
+You can find all informations and the installation instructions of Fira Code in the repository.
+
+### Visual Studio Code
+Repository: [VSCode](https://github.com/microsoft/vscode)
+
+[VSCode Website](https://code.visualstudio.com)
