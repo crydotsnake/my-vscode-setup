@@ -36,8 +36,6 @@
 
 + [Auto Rename Tag by Jun Han](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
-+ [C/C++ by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
-
 + [Discord Presence by Noel](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
 
 + [German Language Pack for VScode by Microsoft](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-de)
@@ -52,17 +50,17 @@
 
 + [Markdown yaml Preamble by Matt Bierner](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-yaml-preamble)
 
-+ [Noctis by Liviu Schera (Theme)](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis)
-
 + [Polacode by P & P](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
 + [QML by Baptist BENOIST](https://marketplace.visualstudio.com/items?itemName=bbenoist.QML)
 
 + [Twig Language 2 by mblode](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2)
 
-+ [vscode-icons by VSCode Icons Team](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
++ [Python by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
-+ [Window Colors by Stuart Robinson](https://marketplace.visualstudio.com/items?itemName=stuart.unique-window-colors)
++ [Linux Themes for VS Code by SolarLiner](https://marketplace.visualstudio.com/items?itemName=SolarLiner.linux-themes)
+
++ [vscode-icons by VSCode Icons Team](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 
 ## Screenshot
