@@ -4,26 +4,29 @@
 
 ```json
  {
-    "telemetry.enableTelemetry": false,
-    "telemetry.enableCrashReporter": false,
-    "window.zoomLevel": 0,
-    "workbench.sideBar.location": "right",
-    "editor.tabSize": 5,
+    "workbench.iconTheme": "vscode-seedling-icon-theme",
+    "workbench.colorTheme": "Andromeda",
+    "python.jediEnabled": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.pythonPath": "/usr/local/bin/python3.7",
+    "nativescript.analytics.enabled": false,
+    "editor.fontFamily": "'FiraCode-Retina'",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.fontWeight": "400",
     "git.path": null,
     "git.autofetch": false,
-    "workbench.iconTheme": "vscode-icons",
-    "workbench.colorTheme": "Arc Dark",
-    "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true, 
-
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
     "files.associations": {
-      "*.html": "twig",
-  },
-  
+        "*.html": "twig"
+    }
 }
 ```
 
 ## Plugins
+
 + [Auto Close Tag by Jun Han](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 + [Auto Rename Tag by Jun Han](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
@@ -44,16 +47,37 @@
 
 + [Polacode by P & P](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
-+ [QML by Baptist BENOIST](https://marketplace.visualstudio.com/items?itemName=bbenoist.QML)
-
 + [Twig Language 2 by mblode](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2)
 
 + [Python by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
-+ [Linux Themes for VS Code by SolarLiner](https://marketplace.visualstudio.com/items?itemName=SolarLiner.linux-themes)
++ [Andromeda by Eliver Lara](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda)
 
-+ [vscode-icons by VSCode Icons Team](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
++ [Beauty by yhpnoraa](https://marketplace.visualstudio.com/items?itemName=yhpnoraa.beauty)
 
++ [C/C++ by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+
++ [Debugger for Chrome by Microsoft](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+
++ [Docker by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+
++ [Live Share by Microsoft](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+
++ [NativeScript by Telerik](https://marketplace.visualstudio.com/items?itemName=Telerik.nativescript)
+
++ [Remote Development by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
+
++ [Remote - Containers by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+
++ [Remote - SSH by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+
++ [Remote - SSH: Editing Configuration Files by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
+
++ [Remote - SSH: Explorer by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-explorer)
+
++ [Remote - WSL by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
+
++ [Seedling Icon Theme by rastikerdar](https://marketplace.visualstudio.com/items?itemName=rastikerdar.vscode-seedling-icon-theme)
 
 ## Screenshot
 ![Screenshot](https://github.com/crydotsnake/my-vscode-setup/raw/master/img/screenshot.png?raw=true)
