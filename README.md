@@ -15,8 +15,9 @@
     "window.zoomLevel": 1,
     "workbench.colorTheme": "Nord Wave",
     "markdown.previewFrontMatter": true,
-
-
+    "polacode.target": "container",
+    "polacode.shadow": "rgba(0, 0, 0, 0.55) 0px 20px 68px",
+    "polacode.transparentBackground": true,
 }
 ```
 
