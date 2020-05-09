@@ -18,6 +18,7 @@
     "polacode.target": "container",
     "polacode.shadow": "rgba(0, 0, 0, 0.55) 0px 20px 68px",
     "polacode.transparentBackground": true,
+    "explorer.autoReveal": false,
 }
 ```
 
