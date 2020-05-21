@@ -40,13 +40,13 @@
 
 + [German Language Pack for VSCode by Microsoft](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-de)
 
-+ [Github Markdown Preview by Matt Bierner](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
++ [GitHub Markdown Preview by Matt Bierner](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
 
 + [Markdown Checkboxes by Matt Bierner](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-checkbox)
 
 + [Markdown Emoji by Matt Bierner](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji)
 
-+ [Markdown Preview Github Styling by Matt Bierner](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
++ [Markdown Preview GitHub Styling by Matt Bierner](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
 
 + [Markdown yaml Preamble by Matt Bierner](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-yaml-preamble)
 
