@@ -22,6 +22,14 @@
 
 ## Plugins
 
++ [Shades of Purple Theme by Ahmad Awais :zap:](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
+
++ [Seedling Icon Theme by Saber Rastikerdar](https://marketplace.visualstudio.com/items?itemName=rastikerdar.vscode-seedling-icon-theme)
+
++ [SQLTools - Database tools by Matheus Teixeira](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)
+
++ [Sublime Text Keymap and Settings Importer by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
+
 + [Auto Close Tag by Jun Han](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 + [Auto Rename Tag by Jun Han](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
@@ -55,10 +63,6 @@
 + [Go by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go)
 
 + [Neos Fusion language support by networkteam GmbH](https://marketplace.visualstudio.com/items?itemName=networkteam.neos-fusion)
-
-+ [Nord Wave (Theme) by Dimitrios Lytras](https://marketplace.visualstudio.com/items?itemName=dnlytras.nord-wave)
-
-+ [Studio Icons by Jordan Lowe](https://marketplace.visualstudio.com/items?itemName=jtlowe.vscode-icon-theme)
 
 + [Prettier - Code formatter by Esben Petersen](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
