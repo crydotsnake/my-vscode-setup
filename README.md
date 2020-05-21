@@ -4,19 +4,23 @@
 
 ```json
  {
-    "workbench.iconTheme": "vscode-icon-theme",
+    "workbench.colorTheme": "Shades of Purple",
+    "workbench.iconTheme": "vscode-seedling-icon-theme",
+    "window.zoomLevel": 1,
+    "workbench.sideBar.location": "right",
     "editor.fontLigatures": true,
     "editor.fontSize": 16,
     "editor.fontWeight": "300",
-    "workbench.sideBar.location": "right",
+    "editor.cursorStyle": "underline",
+    "editor.cursorSmoothCaretAnimation": true,
     "editor.minimap.side": "left",
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
-    "window.zoomLevel": 1,
-    "workbench.colorTheme": "Nord Wave",
     "markdown.previewFrontMatter": true,
-
-
+    "polacode.target": "container",
+    "polacode.shadow": "rgba(0, 0, 0, 0.55) 0px 20px 68px",
+    "polacode.transparentBackground": true,
+    "explorer.autoReveal": false,
 }
 ```
 
