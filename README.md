@@ -98,7 +98,7 @@ I use the [Fira Code](https://github.com/tonsky/FiraCode) Font.
 
 ## Screenshot
 
-![Screenshot](https://github.com/crydotsnake/my-vscode-setup/raw/master/img/new-screenshot.png?raw=true)
+![Screenshot](https://github.com/crydotsnake/my-vscode-setup/raw/master/img/screenshot.png?raw=true)
 
 ## Informations
 
