@@ -3,36 +3,37 @@
 ## Settings
 
 ```json
- {
-    "workbench.colorTheme": "Shades of Purple",
-    "workbench.iconTheme": "vscode-seedling-icon-theme",
-    "window.zoomLevel": 1,
-    "workbench.sideBar.location": "right",
-    "editor.fontLigatures": true,
-    "editor.fontSize": 16,
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Pink Cat Boo",
+    "window.zoomLevel": -1,
+    "workbench.sideBar.location": "left",
+    "editor.fontSize": 14,
     "editor.fontWeight": "300",
-    "editor.cursorStyle": "underline",
-    "editor.cursorSmoothCaretAnimation": true,
-    "editor.minimap.side": "left",
+    "editor.cursorStyle": "line",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.minimap.side": "right",
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
-    "markdown.previewFrontMatter": true,
     "polacode.target": "container",
     "polacode.shadow": "rgba(0, 0, 0, 0.55) 0px 20px 68px",
     "polacode.transparentBackground": true,
     "explorer.autoReveal": false,
+    "terminal.integrated.automationShell.osx": "/bin/zsh",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.fontSize": 14,
+    "Notes.notesLocation": "/PATH/TO/Documents/VSCodeNotes",
 }
 ```
 
 ## Plugins
 
-+ [Shades of Purple Theme by Ahmad Awais :zap:](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
++ [Pink cat Boo Theme by Fiona Fan :cat:](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo)
 
-+ [Seedling Icon Theme by Saber Rastikerdar](https://marketplace.visualstudio.com/items?itemName=rastikerdar.vscode-seedling-icon-theme)
++ [VSCode-Icons by VSCode Icons Team](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 + [SQLTools - Database tools by Matheus Teixeira](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)
-
-+ [Sublime Text Keymap and Settings Importer by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
 
 + [Auto Close Tag by Jun Han](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
@@ -52,7 +53,7 @@
 
 + [Polacode by P & P](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
-+ [Twig by whatwedo](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
++ [Go by Go Team at Google](https://marketplace.visualstudio.com/items?itemName=golang.Go)
 
 + [Python by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
@@ -62,17 +63,38 @@
 
 + [Debugger for Firefox by Firefox DevTools](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
 
++ [Debugger for Google Chrome by Microsoft](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+
 + [GitHub Pull Requests by GitHub](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 
-+ [Go by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go)
-
 + [Neos Fusion language support by networkteam GmbH](https://marketplace.visualstudio.com/items?itemName=networkteam.neos-fusion)
-
-+ [Prettier - Code formatter by Esben Petersen](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 + [Vetur by Pine Wu](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
 + [YAML by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+
++ [Beauty by yhpnoraa](https://marketplace.visualstudio.com/items?itemName=yhpnoraa.beauty)
+
++ [Better TOML by bungcip](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
+
++ [Discord Presence by Noel](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
+
++ [Django by Baptiste Darthenay](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)
+
++ [Hugo Helper by Ruslan Nasonov](https://marketplace.visualstudio.com/items?itemName=rusnasonov.vscode-hugo)
+
++ [Hugo Language and Syntax Support by budparr](https://marketplace.visualstudio.com/items?itemName=budparr.language-hugo-vscode)
+
++ [Hugo Snippets by fivethree](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-hugo-snippets)
+
++ [Jupyter by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+
++ [Notes by Dion Munk](https://marketplace.visualstudio.com/items?itemName=dionmunk.vscode-notes)
+
+
+## Font
+
+I use the [Fira Code](https://github.com/tonsky/FiraCode) Font.
 
 ## Screenshot
 
