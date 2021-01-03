@@ -5,14 +5,14 @@
 ```json
 {
     "workbench.iconTheme": "vscode-icons",
-    "workbench.colorTheme": "Pink Cat Boo",
-    "window.zoomLevel": -1,
+    "workbench.colorTheme": "Nord Deep",
+    "window.zoomLevel": 0,
     "workbench.sideBar.location": "left",
-    "editor.fontSize": 14,
-    "editor.fontWeight": "300",
+    "editor.fontSize": 16,
     "editor.cursorStyle": "line",
-    "editor.fontFamily": "Fira Code",
+    "editor.fontFamily": "Victor Mono Medium",
     "editor.fontLigatures": true,
+    "editor.fontWeight": "800", 
     "editor.minimap.side": "right",
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
@@ -20,16 +20,29 @@
     "polacode.shadow": "rgba(0, 0, 0, 0.55) 0px 20px 68px",
     "polacode.transparentBackground": true,
     "explorer.autoReveal": false,
-    "terminal.integrated.automationShell.osx": "/bin/zsh",
+    "terminal.integrated.automationShell.linux": "/bin/zsh",
     "terminal.integrated.fontFamily": "MesloLGS NF",
     "terminal.integrated.fontSize": 14,
-    "Notes.notesLocation": "/PATH/TO/Documents/VSCodeNotes",
+    "Notes.notesLocation": "/Users/expl0it/Documents/VSCodeNotes",
+    "explorer.confirmDelete": false,
+    "workbench.activityBar.visible": true,
+    "editor.lineNumbers": "off",
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "glassit.alpha": 245
 }
 ```
 
 ## Plugins
 
-+ [Pink cat Boo Theme by Fiona Fan :cat:](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo)
++ [Nord Deep Theme by Marlos Irapuan](https://marketplace.visualstudio.com/items?itemName=marlosirapuan.nord-deep)
+
++ [GlassIt-VSC by hikarin522](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit)
+
 
 + [VSCode-Icons by VSCode Icons Team](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
@@ -94,7 +107,7 @@
 
 ## Font
 
-I use the [Fira Code](https://github.com/tonsky/FiraCode) Font.
+I use the [Victor Mono](https://rubjo.github.io/victor-mono/) Font.
 
 ## Screenshot
 
