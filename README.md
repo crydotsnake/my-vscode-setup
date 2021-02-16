@@ -23,7 +23,7 @@
     "terminal.integrated.automationShell.linux": "/bin/zsh",
     "terminal.integrated.fontFamily": "MesloLGS NF",
     "terminal.integrated.fontSize": 14,
-    "Notes.notesLocation": "/Users/expl0it/Documents/VSCodeNotes",
+    "Notes.notesLocation": "/ENTER/YOUR/PATH/TOO/NOTES",
     "explorer.confirmDelete": false,
     "workbench.activityBar.visible": true,
     "editor.lineNumbers": "off",
