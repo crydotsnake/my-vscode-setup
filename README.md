@@ -1,4 +1,4 @@
-# My VSCode Setup Test
+# My VSCode Setup
 
 ## Settings
 
